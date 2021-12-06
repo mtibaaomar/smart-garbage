@@ -1,1 +1,1 @@
-*.hdf5
+model_weights_ay.hdf5
